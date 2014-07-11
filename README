@@ -1,0 +1,1 @@
+use generated dist/scripts/scripts.js file for iframe app and set path to this file in parent app.js with EditHtmlService.setIframeAppJSFilePath() method - defaults to "bower-tagy-components-iframe-app/scripts/scripts.js"
