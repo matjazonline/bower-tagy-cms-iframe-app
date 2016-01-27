@@ -21,7 +21,8 @@ module.exports = function (grunt) {
     app: 'app'
     //,dist: 'dist'//'../tagy-components-demo/app/edit-html-iframe-lib'
     //,dist: '../tagy-cms-components-demo/app/bower-tagy-components-iframe-app'
-    ,dist:'/home/matt/dev/projects/magnetPages/gaeMagnetPages/src/main/webapp/_cp/bower-tagy-components-iframe-app'//'/home/matt/dev/projects/magnetPages/uiMagnetPages/app/bower-tagy-components-iframe-app'//
+    ,dist:'../../magnetPages/gaeMagnetPages/src/main/webapp/_cp/bower-tagy-components-iframe-app'//'/home/matt/dev/projects/magnetPages/uiMagnetPages/app/bower-tagy-components-iframe-app'//
+    //,dist:'../../magnetPages/uimagnetpages/app/bower-tagy-components-iframe-app'//'/home/matt/dev/projects/magnetPages/uiMagnetPages/app/bower-tagy-components-iframe-app'//
   };
 
   try {
